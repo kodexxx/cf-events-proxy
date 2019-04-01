@@ -1,0 +1,11 @@
+{
+  "name": "event-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kodexxx/cf-events-proxy.git",
+  "author": "Nazar Rohozhuk <nazarrrka@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
